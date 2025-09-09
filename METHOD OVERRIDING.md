@@ -52,6 +52,3 @@ for country in (obj_ind, obj_usa):
 # RESULT
 Thus, the program to demonstrate polymorphism using two classes was executed successfully and the output was verified.
 
-image
-RESULT
-Thus, the program to demonstrate polymorphism using two classes was executed successfully and the output was verified.
